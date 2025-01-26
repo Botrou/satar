@@ -30,7 +30,7 @@
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--13" value="العملاء(4)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="320" width="160" height="240" as="geometry">
+          <mxGeometry x="110" y="320" width="160" height="270" as="geometry">
             <mxRectangle x="540" y="350" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -56,7 +56,10 @@
           <mxGeometry y="182" width="160" height="28" as="geometry" />
         </mxCell>
         <mxCell id="AMiN39QSzYucy0YRh3hm-7" value="الاميل " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--13" vertex="1">
-          <mxGeometry y="210" width="160" height="26" as="geometry" />
+          <mxGeometry y="210" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l1afau9MyRZLILlWyFQn-10" value="مبلغ الصيانة" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--13">
+          <mxGeometry y="240" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--17" value="دخول الجهاز (2)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="140" width="160" height="234" as="geometry">
@@ -88,7 +91,7 @@
           <mxGeometry y="208" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AMiN39QSzYucy0YRh3hm-16" value="الصيانة (5)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="374" width="160" height="296" as="geometry">
+          <mxGeometry x="560" y="374" width="160" height="266" as="geometry">
             <mxRectangle x="540" y="694" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -118,9 +121,6 @@
         </mxCell>
         <mxCell id="l1afau9MyRZLILlWyFQn-0" value="تحديث حالة الجهاز" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="AMiN39QSzYucy0YRh3hm-16">
           <mxGeometry y="234" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AMiN39QSzYucy0YRh3hm-26" value="مبلغ الصيانة" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="AMiN39QSzYucy0YRh3hm-16" vertex="1">
-          <mxGeometry y="264" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="AMiN39QSzYucy0YRh3hm-27" value="تقرير الصيانة(6)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="640" width="160" height="260" as="geometry">
